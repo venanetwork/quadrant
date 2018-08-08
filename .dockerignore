@@ -1,0 +1,6 @@
+.git/
+/quadrant
+/DATA
+/*/TESTDATA
+Dockerfile
+.idea
